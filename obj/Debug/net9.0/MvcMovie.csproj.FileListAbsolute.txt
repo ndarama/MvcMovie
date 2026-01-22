@@ -244,3 +244,4 @@ D:\NDARAMA\1.SCHOOLS\1. BYU Fall 2026\CSE325 - .NET Software Development\Mvc\Mvc
 D:\NDARAMA\1.SCHOOLS\1. BYU Fall 2026\CSE325 - .NET Software Development\Mvc\MvcMovie\obj\Debug\net9.0\MvcMovie.pdb
 D:\NDARAMA\1.SCHOOLS\1. BYU Fall 2026\CSE325 - .NET Software Development\Mvc\MvcMovie\obj\Debug\net9.0\MvcMovie.genruntimeconfig.cache
 D:\NDARAMA\1.SCHOOLS\1. BYU Fall 2026\CSE325 - .NET Software Development\Mvc\MvcMovie\obj\Debug\net9.0\ref\MvcMovie.dll
+D:\NDARAMA\1.SCHOOLS\1. BYU Fall 2026\CSE325 - .NET Software Development\Mvc\MvcMovie\obj\Debug\net9.0\MvcMovie.sourcelink.json
