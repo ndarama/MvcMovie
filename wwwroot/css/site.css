@@ -29,3 +29,23 @@ body {
 .form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
   text-align: start;
 }
+
+/* Add padding to all form input elements */
+input[type="text"],
+input[type="date"],
+input[type="number"],
+input[type="email"],
+input[type="password"],
+select,
+textarea {
+  padding: 8px 12px;
+}
+
+/* Additional padding for form groups */
+.form-group {
+  margin-bottom: 15px;
+}
+
+.form-control {
+  padding: 8px 12px;
+}

@@ -51,6 +51,30 @@ public static class SeedData
                     Genre = "Western",
                     Rating = "PG",
                     Price = 3.99M
+                },
+                new Movie
+                {
+                    Title = "The Shawshank Redemption",
+                    ReleaseDate = DateTime.Parse("1994-9-23"),
+                    Genre = "Drama",
+                    Rating = "R",
+                    Price = 12.99M
+                },
+                new Movie
+                {
+                    Title = "Inception",
+                    ReleaseDate = DateTime.Parse("2010-7-16"),
+                    Genre = "Sci-Fi",
+                    Rating = "PG-13",
+                    Price = 14.99M
+                },
+                new Movie
+                {
+                    Title = "The Dark Knight",
+                    ReleaseDate = DateTime.Parse("2008-7-18"),
+                    Genre = "Action",
+                    Rating = "PG-13",
+                    Price = 13.99M
                 }
             );
             context.SaveChanges();

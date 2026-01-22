@@ -169,7 +169,6 @@ D:\NDARAMA\1.SCHOOLS\1. BYU Fall 2026\CSE325 - .NET Software Development\Mvc\Mvc
 D:\NDARAMA\1.SCHOOLS\1. BYU Fall 2026\CSE325 - .NET Software Development\Mvc\MvcMovie\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 D:\NDARAMA\1.SCHOOLS\1. BYU Fall 2026\CSE325 - .NET Software Development\Mvc\MvcMovie\obj\Debug\net9.0\scopedcss\bundle\MvcMovie.styles.css
 D:\NDARAMA\1.SCHOOLS\1. BYU Fall 2026\CSE325 - .NET Software Development\Mvc\MvcMovie\obj\Debug\net9.0\scopedcss\projectbundle\MvcMovie.bundle.scp.css
-D:\NDARAMA\1.SCHOOLS\1. BYU Fall 2026\CSE325 - .NET Software Development\Mvc\MvcMovie\obj\Debug\net9.0\compressed\8151r5ozgn-{0}-b9sayid5wm-b9sayid5wm.gz
 D:\NDARAMA\1.SCHOOLS\1. BYU Fall 2026\CSE325 - .NET Software Development\Mvc\MvcMovie\obj\Debug\net9.0\compressed\dqa1xiugtd-{0}-61n19gt1b8-61n19gt1b8.gz
 D:\NDARAMA\1.SCHOOLS\1. BYU Fall 2026\CSE325 - .NET Software Development\Mvc\MvcMovie\obj\Debug\net9.0\compressed\6clnpnw2tb-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
 D:\NDARAMA\1.SCHOOLS\1. BYU Fall 2026\CSE325 - .NET Software Development\Mvc\MvcMovie\obj\Debug\net9.0\compressed\gln79jq0fq-{0}-bqjiyaj88i-bqjiyaj88i.gz
@@ -245,3 +244,4 @@ D:\NDARAMA\1.SCHOOLS\1. BYU Fall 2026\CSE325 - .NET Software Development\Mvc\Mvc
 D:\NDARAMA\1.SCHOOLS\1. BYU Fall 2026\CSE325 - .NET Software Development\Mvc\MvcMovie\obj\Debug\net9.0\MvcMovie.genruntimeconfig.cache
 D:\NDARAMA\1.SCHOOLS\1. BYU Fall 2026\CSE325 - .NET Software Development\Mvc\MvcMovie\obj\Debug\net9.0\ref\MvcMovie.dll
 D:\NDARAMA\1.SCHOOLS\1. BYU Fall 2026\CSE325 - .NET Software Development\Mvc\MvcMovie\obj\Debug\net9.0\MvcMovie.sourcelink.json
+D:\NDARAMA\1.SCHOOLS\1. BYU Fall 2026\CSE325 - .NET Software Development\Mvc\MvcMovie\obj\Debug\net9.0\compressed\8151r5ozgn-{0}-sv3qbvrzr7-sv3qbvrzr7.gz
