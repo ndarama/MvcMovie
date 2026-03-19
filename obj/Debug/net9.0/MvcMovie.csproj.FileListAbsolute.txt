@@ -245,3 +245,15 @@ D:\NDARAMA\1.SCHOOLS\1. BYU Fall 2026\CSE325 - .NET Software Development\Mvc\Mvc
 D:\NDARAMA\1.SCHOOLS\1. BYU Fall 2026\CSE325 - .NET Software Development\Mvc\MvcMovie\obj\Debug\net9.0\ref\MvcMovie.dll
 D:\NDARAMA\1.SCHOOLS\1. BYU Fall 2026\CSE325 - .NET Software Development\Mvc\MvcMovie\obj\Debug\net9.0\MvcMovie.sourcelink.json
 D:\NDARAMA\1.SCHOOLS\1. BYU Fall 2026\CSE325 - .NET Software Development\Mvc\MvcMovie\obj\Debug\net9.0\compressed\8151r5ozgn-{0}-sv3qbvrzr7-sv3qbvrzr7.gz
+D:\NDARAMA\1.SCHOOLS\1. BYU Fall 2026\CSE325 - .NET Software Development\Mvc\MvcMovie\bin\Debug\net9.0\publish\publish\web.config
+D:\NDARAMA\1.SCHOOLS\1. BYU Fall 2026\CSE325 - .NET Software Development\Mvc\MvcMovie\bin\Debug\net9.0\publish\web.config
+D:\NDARAMA\1.SCHOOLS\1. BYU Fall 2026\CSE325 - .NET Software Development\Mvc\MvcMovie\bin\Debug\net9.0\publish\appsettings.Development.json
+D:\NDARAMA\1.SCHOOLS\1. BYU Fall 2026\CSE325 - .NET Software Development\Mvc\MvcMovie\bin\Debug\net9.0\publish\appsettings.json
+D:\NDARAMA\1.SCHOOLS\1. BYU Fall 2026\CSE325 - .NET Software Development\Mvc\MvcMovie\bin\Debug\net9.0\publish\MvcMovie.deps.json
+D:\NDARAMA\1.SCHOOLS\1. BYU Fall 2026\CSE325 - .NET Software Development\Mvc\MvcMovie\bin\Debug\net9.0\publish\MvcMovie.runtimeconfig.json
+D:\NDARAMA\1.SCHOOLS\1. BYU Fall 2026\CSE325 - .NET Software Development\Mvc\MvcMovie\bin\Debug\net9.0\publish\MvcMovie.staticwebassets.endpoints.json
+D:\NDARAMA\1.SCHOOLS\1. BYU Fall 2026\CSE325 - .NET Software Development\Mvc\MvcMovie\bin\Debug\net9.0\publish\publish\appsettings.Development.json
+D:\NDARAMA\1.SCHOOLS\1. BYU Fall 2026\CSE325 - .NET Software Development\Mvc\MvcMovie\bin\Debug\net9.0\publish\publish\appsettings.json
+D:\NDARAMA\1.SCHOOLS\1. BYU Fall 2026\CSE325 - .NET Software Development\Mvc\MvcMovie\bin\Debug\net9.0\publish\publish\MvcMovie.deps.json
+D:\NDARAMA\1.SCHOOLS\1. BYU Fall 2026\CSE325 - .NET Software Development\Mvc\MvcMovie\bin\Debug\net9.0\publish\publish\MvcMovie.runtimeconfig.json
+D:\NDARAMA\1.SCHOOLS\1. BYU Fall 2026\CSE325 - .NET Software Development\Mvc\MvcMovie\bin\Debug\net9.0\publish\publish\MvcMovie.staticwebassets.endpoints.json

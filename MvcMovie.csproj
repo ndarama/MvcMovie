@@ -9,6 +9,10 @@
   <ItemGroup>
     <None Include="Controllers\HelloWorldController.cs" />
   </ItemGroup>
+  <ItemGroup>
+  <Content Remove="MvcMovie.db" />
+  <None Remove="MvcMovie.db" />
+  </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="9.0.0">
